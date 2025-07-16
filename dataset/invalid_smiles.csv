@@ -1,0 +1,12 @@
+﻿invalid_smiles
+O=N([O-])C1=C(CN=C1NCCSCc2ncccc2)Cc3ccccc3
+c1(nc(NC(N)=[NH2])sc1)CSCCNC(=[NH]C#N)NC
+Cc1nc(sc1)\[NH]=C(\N)N
+s1cc(CSCCN\C(NC)=[NH]\C#N)nc1\[NH]=C(\N)N
+c1c(c(ncc1)CSCCN\C(=[NH]\C#N)NCC)Br
+n1c(csc1\[NH]=C(\N)N)c1ccccc1
+n1c(csc1\[NH]=C(\N)N)c1cccc(c1)N
+n1c(csc1\[NH]=C(\N)N)c1cccc(c1)NC(C)=O
+n1c(csc1\[NH]=C(\N)N)c1cccc(c1)N\C(NC)=[NH]\C#N
+s1cc(nc1\[NH]=C(\N)N)C
+c1(cc(N\C(=[NH]\c2cccc(c2)CC)C)ccc1)CC
